@@ -26,12 +26,10 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
 * ISO New England, Holyoke, MA (Jan. – May 2018)
   * Intern researcher at the department of Business Architecture Technology (BAT)
-  	* Developed PCM-TSAT adaptor prototype for studying cascading failure from transient simulation viewpoint
-  	* Developed Sensitivity Analysis Tool for Vermont model improvement (PowerWorld + SimAuto + Matlab)
-	
+  
 * Texas A&M University, College Station TX
   * Teaching Assistant for Application of Data Science in Modern Power Systems(Sep. - Dec. 2017)
   * Research Assistant & Research Group Secretary (Sep. 2017 – now)                                                                            
@@ -39,12 +37,7 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+PSS/E, MATLAB, Simulink, PowerWorld, SimAuto, TSAT, LaTeX, Microsoft Office, Visio
 
 Publications
 ======
