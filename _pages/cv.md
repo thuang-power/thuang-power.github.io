@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Texas A&M University
+* Visiting Ph.D student in MIT, Fall 2018
 * M.S. in Texas A&M University, 2017
 * B.S. in North China Electric Power University, 2013
 
