@@ -34,9 +34,8 @@ Intern researcher at the department of Business Architecture Technology (BAT)
   * Developed Sensitivity Analysis Tool for Vermont model improvement (PowerWorld + SimAuto + Matlab)
 	
 * Texas A&M University, College Station TX
-
-	 * Teaching Assistant for Application of Data Science in Modern Power Systems(Sep. - Dec. 2017)
-	 * Research Assistant & Research Group Secretary (Sep. 2017 – now)                                                                            
+  * Teaching Assistant for Application of Data Science in Modern Power Systems(Sep. - Dec. 2017)
+  * Research Assistant & Research Group Secretary (Sep. 2017 – now)                                                                            
 
   
 Skills
