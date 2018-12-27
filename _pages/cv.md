@@ -17,16 +17,6 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
 * ISO New England, Holyoke, MA (Spring 2018)
   * Intern researcher at the department of Business Architecture Technology (BAT)
   
