@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tong Huang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "A Ph.D student at Texas A&M University"
+  location         : #"Location"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ZOo09b4AAAAJ&hl=en"
   email            : "tonghuang@tamu.edu"
