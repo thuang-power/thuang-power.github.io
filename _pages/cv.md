@@ -37,7 +37,7 @@ Work experience
   
 Skills
 ======
-PSS/E, MATLAB, Simulink, PowerWorld, SimAuto, TSAT, LaTeX, Microsoft Office, Visio
+
 
 Publications
 ======
