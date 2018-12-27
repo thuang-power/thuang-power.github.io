@@ -35,7 +35,7 @@ Work experience
   * Research Assistant & Research Group Secretary (Sep. 2017 – now)                                                                            
 
   
-Skills
+Software
 ======
 PSS/E, MATLAB, Simulink, PowerWorld, SimAuto, TSAT, LaTeX, Microsoft Office, Visio
 
