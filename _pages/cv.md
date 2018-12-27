@@ -27,11 +27,11 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* ISO New England, Holyoke, MA (Jan. – May 2018)
+* ISO New England, Holyoke, MA (Spring 2018)
   * Intern researcher at the department of Business Architecture Technology (BAT)
   
 * Texas A&M University, College Station TX
-  * Teaching Assistant for Application of Data Science in Modern Power Systems(Sep. - Dec. 2017)
+  * Teaching Assistant for Application of Data Science in Modern Power Systems(Fall 2017)
   * Research Assistant & Research Group Secretary (Sep. 2017 – now)                                                                            
 
   
