@@ -11,4 +11,4 @@ I am a Ph.D. candidate in the [Department of Electrical and Computer Engineering
 
 News
 =====
-[Jun. 2020] We receive the best paper award in IEEE Power and Energy Society (PES) General Meeting 2020 for our paper titled “[A Holistic Framework for Parameter Coordination of Interconnected Microgrids Against Disaster](https://ieeexplore.ieee.org/abstract/document/9281628).”
+[Jun. 2020] We received the **best paper award** in IEEE Power and Energy Society (PES) General Meeting 2020 for our paper titled “[A Holistic Framework for Parameter Coordination of Interconnected Microgrids Against Disaster](https://ieeexplore.ieee.org/abstract/document/9281628).” [[TAMU News](https://engineering.tamu.edu/news/2020/09/research-team-receives-best-paper-award-at-flagship-conference.html)]
