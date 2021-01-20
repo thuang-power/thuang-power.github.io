@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
+| Title       | Event       | Location      |    Link |
+| :---        |    :----:   |          :--- |   :----:|
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
