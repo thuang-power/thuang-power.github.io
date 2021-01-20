@@ -14,4 +14,4 @@ author_profile: true
 |Tutorial of Forced Oscillation Localization Tool|Electric Reliability Council of Texas (ERCOT)|online|Aug. 2020|
 |Detection of Cyber Attacks in Renewable-rich <br> Microgrids Using Dynamic Watermarking|IEEE PES GM 2020| online| Aug. 2020|
 |A Holistic Framework for Parameter Coordination <br> of Interconnected Microgrids against Disasters|IEEE PES GM 2020| online| Aug. 2020|
-|Robust PCA over Dynamic Systems: A Case of Forced Oscillation Localization|LIDS & Stats Tea Talk, Laboratory of <br>Information & Decision Systems|MIT|Nov. 2018|
+|Robust PCA over Dynamic Systems: A Case of Forced Oscillation Localization|LIDS & Stats Tea Talk|MIT|Nov. 2018|[[Flyer](https://lids.mit.edu/news-and-events/events/robust-pca-over-dynamic-systems-case-forced-oscillation-localization)]
