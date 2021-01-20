@@ -9,5 +9,4 @@ author_profile: true
 
 |Title                                              | Event        | Location | Link |
 |---------------------------------------------------|--------------|----------|------|
-|A Neural Lyapunov Approach to Transient Stability  |
-|Assessment in Interconnected Microgrids            |
+|A Neural Lyapunov Approach to Transient Stability <br> Assessment in Interconnected Microgrids            |
