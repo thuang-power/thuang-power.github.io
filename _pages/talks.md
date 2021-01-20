@@ -9,5 +9,5 @@ author_profile: true
 
 | Title       | Event       | Location      |    Link |
 | :---        |    :----:   |          :--- |   :----:|
-| Header      | Title       | Here's this   |
+| A Neural Lyapunov Approach to Transient Stability Assessment in Interconnected Microgrids     | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
