@@ -17,7 +17,7 @@ All my articles can also be found on my [Google Scholar](https://scholar.google.
 
 ### Conference Publications
 
-[C6] **T. Huang**, H. Sun, K. Kim, D. Nikovski, and L. Xie, “A holistic framework for parameter coordination of interconnected microgrids against disasters,” *IEEE PES General Meeting 2020*. (<span style="color:red">Best Paper Award</span>)
+[C6] **T. Huang**, H. Sun, K. Kim, D. Nikovski, and L. Xie, “A holistic framework for parameter coordination of interconnected microgrids against disasters,” *IEEE PES General Meeting 2020*. ( <span style="color:red"> Best Paper Award </span> )
 
 [C5] **T. Huang**, S. Gao, X. Long, and L. Xie, “A Neural Lyapunov Approach to Transient Stability Assessment in Interconnected Microgrids,” in *54-th Hawaii International Conference on System Sciences (HICSS 54)*, 2021. (<span style="color:red">Best Paper Award</span>)
 
