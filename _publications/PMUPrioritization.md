@@ -1,7 +1,7 @@
 ---
 title: "Prioritization of PMU Location and Signal Selection for Monitoring Critical Power System Oscillations"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/PMUPrioritization
 date: 2018-06-01
 venue: 'IEEE Transactions on Power Systems'
 paperurl: 'http://academicpages.github.io/files/08116598.pdf'
