@@ -18,5 +18,5 @@ author_profile: true
 |Robust PCA over Dynamic Systems: A Case of Forced Oscillation Localization|LIDS & Stats Tea Talk|MIT, Cambridge, MA|Nov. 2018|[[Flyer](https://lids.mit.edu/news-and-events/events/robust-pca-over-dynamic-systems-case-forced-oscillation-localization)]
 |PMU Prioritization and Forced Oscillation Localization in Power Systems|ISO New England|Holyoke, Massachusetts|Sep. 2018|
 |An Online Defense Framework against Cyber Attacks on Automatic Generation Control|ISO New England|Holyoke, MA|Feb. 2018|
-|Prioritization of PMU Location and Signal Selection <br> for Monitoring Critical Oscillations|ERCORT|Taylor, TX| Nov. 2017|
+|Prioritization of PMU Location and Signal Selection <br> for Monitoring Critical Oscillations|Electric Reliability Council of Texas (ERCOT)|Taylor, TX| Nov. 2017|
 |Prioritization of PMU Location and Signal Selection <br> for Monitoring Critical Oscillations|Shenzhen Research Institute of Big Data| The Chinese University of Hong Kong (Shenzhen)| Aug. 2017|[[News]](http://www.sribd.cn/index.php/en/news/128-mr-tong-huang-made-a-speech-in-our-school.html)|
