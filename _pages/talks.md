@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 [P9] “A Neural Lyapunov Approach to Transient Stability Assessment in Interconnected Microgrids”
+
 54-th Hawaii International Conference on System Sciences (HICSS 54), 2021, paper presentation
 HICSS-54 Energy Systems Track Virtual Session, poster presentation
 
