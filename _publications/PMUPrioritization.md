@@ -1,5 +1,6 @@
 ---
 title: "Prioritization of PMU Location and Signal Selection for Monitoring Critical Power System Oscillations"
+author: 'Tong Huang, Meng Wu, and Le Xie'
 collection: publications
 permalink: /publication/PMUPrioritization
 date: 2018-06-01
