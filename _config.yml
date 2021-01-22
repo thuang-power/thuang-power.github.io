@@ -186,7 +186,7 @@ collections:
     permalink: /:collection/:path/
   media:
     output: true
-    permalink: /:collection/:media/
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
