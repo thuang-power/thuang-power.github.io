@@ -3,8 +3,6 @@ layout: archive
 title: "In the Media"
 permalink: /In the Media/
 author_profile: true
-redirect_from:
-  - /media
 ---
 
 “[HICSS-54 Best Paper Award – Tong et al., 2021](https://smartgridcenter.tamu.edu/index.php/2021/01/13/hicss-54-best-paper-award-tong-et-al-2021/)”
