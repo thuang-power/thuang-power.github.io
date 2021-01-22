@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Ph.D. candidate in the [Department of Electrical and Computer Engineering](https://engineering.tamu.edu/electrical/index.html) at [Texas A&M University](https://www.tamu.edu). My advisor is [Prof. Le Xie](http://www.ece.tamu.edu/~le.xie/). My research is focused on anomaly management in massively digitized power systems. From September to December of 2018, I was a visiting student in the Laboratory for Information and Decision Systems ([LIDS](https://lids.mit.edu)) at Massachusetts Institute of Technology ([MIT](http://www.mit.edu)). My industry experience includes an internship at [ISO-New England](https://www.iso-ne.com) in 2018 and an internship at [Mitsubishi Electric Research Laboratories](https://www.merl.com) in 2019.
 
-News
+Announcements
 =====
 [Jun. 2020] We received the **Best Paper Award** in IEEE Power and Energy Society (PES) General Meeting 2020 for our paper titled “[A Holistic Framework for Parameter Coordination of Interconnected Microgrids Against Disaster](https://ieeexplore.ieee.org/abstract/document/9281628).” [[TAMU News](https://engineering.tamu.edu/news/2020/09/research-team-receives-best-paper-award-at-flagship-conference.html)]
 
