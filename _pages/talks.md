@@ -9,7 +9,7 @@ author_profile: true
 
 |Title                                                                                         | Event/Organization                                | Location |Month/Year| Link |
 |----------------------------------------------------------------------------------------------|-----------------------------------------|----------|------|----|
-|A Neural Lyapunov Approach to Transient Stability <br> Assessment in Interconnected Microgrids|54-th Hawaii International Conference on <br>System Sciences (HICSS 54), 2021|online| Jan. 2021|
+|A Neural Lyapunov Approach to Transient Stability <br> Assessment in Interconnected Microgrids|54-th Hawaii International Conference on <br>System Sciences (HICSS 54), 2021|online| Jan. 2021|[[Poster]](thuang-power.github.io/files/HICSS-54-Poster.pdf)
 |Forced Oscillation Localization in <br> ERCOT System through Synchrophasors|The North American Synchrophasor <br> Initiative Work Group Meeting (NASPI)|online|Nov. 2020|[[Slides]](https://www.naspi.org/sites/default/files/2020-11/04_tamu_forced_oscillation_ercot_huang_20201103.pdf)|
 |Tutorial of Forced Oscillation Localization Tool|Electric Reliability Council of Texas (ERCOT)|online|Aug. 2020|
 |Detection of Cyber Attacks in Renewable-rich <br> Microgrids Using Dynamic Watermarking|IEEE PES GM 2020| online| Aug. 2020|
