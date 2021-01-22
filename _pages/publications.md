@@ -18,9 +18,9 @@ All my articles can also be found on my [Google Scholar](https://scholar.google.
 
 ### Conference Publications
 
-[C6] **T. Huang**, H. Sun, K. Kim, D. Nikovski, and L. Xie, “A holistic framework for parameter coordination of interconnected microgrids against disasters,” *IEEE PES General Meeting 2020*. (<span style="color:red">**Best Paper Award**</span>) [[Preprint]](https://arxiv.org/abs/2006.13840)
+[C6] **T. Huang**, H. Sun, K. Kim, D. Nikovski, and L. Xie, “A holistic framework for parameter coordination of interconnected microgrids against disasters,” *IEEE PES General Meeting 2020*. (<span style="color:red">**Best Paper Award**</span>) [[PDF]](https://arxiv.org/abs/2006.13840)
 
-[C5] **T. Huang**, S. Gao, X. Long, and L. Xie, “A Neural Lyapunov Approach to Transient Stability Assessment in Interconnected Microgrids,” in *54-th Hawaii International Conference on System Sciences (HICSS 54)*, 2021. (<span style="color:red">**Best Paper Award**</span>) [[Preprint]](https://scholarspace.manoa.hawaii.edu/bitstream/10125/71020/0327.pdf)
+[C5] **T. Huang**, S. Gao, X. Long, and L. Xie, “A Neural Lyapunov Approach to Transient Stability Assessment in Interconnected Microgrids,” in *54-th Hawaii International Conference on System Sciences (HICSS 54)*, 2021. (<span style="color:red">**Best Paper Award**</span>) [[PDF]](https://scholarspace.manoa.hawaii.edu/bitstream/10125/71020/0327.pdf)
 
 [C4] **T. Huang**, B. Wang, J. Ramos-Ruiz, P. Enjeti, P. R. Kumar, and L. Xie, “Detection of Cyber Attacks in Renewable-rich Microgrids Using Dynamic Watermarking,” in *IEEE PES General Meeting* 2020. [[PDF]](https://arxiv.org/pdf/2011.12990.pdf)
 
