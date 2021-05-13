@@ -12,7 +12,7 @@ I am a Ph.D. candidate in the [Department of Electrical and Computer Engineering
 Announcements
 =====
 
-[May. 2021] I've successfully defended my thesis entitled "Physical and Cyber Anomaly Management in Massively Digitized Power Systems."
+[May 2021] I've successfully defended my thesis entitled "Physical and Cyber Anomaly Management in Massively Digitized Power Systems."
 
 [Jan. 2021] We received the **Best Paper Award** in the 54-th Hawaii International Conference on System Sciences (HICSS 54) for our paper titled “[A Neural Lyapunov Approach to Transient Stability Assessment in Interconnected Microgrids](https://scholarspace.manoa.hawaii.edu/bitstream/10125/71020/0327.pdf).” [[Link](https://hicss.hawaii.edu/best-papers/)]
 
