@@ -7,6 +7,11 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Publications
+
+[J5] **T. Huang**, S. Gao, and L. Xie, “Transient Stability Assessment of Networked Microgrids Using Neural Lyapunov Methods,” submitted to *IEEE Transactions on Smart Grid*.
+
+[J4] **T. Huang**, J. Ramos-Ruiz, W. Ko, J. Kim, P. Enjeti, P. Kumar, and L. Xie, “Enabling Secure Peer-to-peer Energy Transaction through Dynamic Watermarking in Future Distribution Grids,” in *IEEE Electrification Magazine*, 2021 (to appear).
+
 [J3] **T. Huang**, N. M. Freris, P. R. Kumar and L. Xie, "[A Synchrophasor Data-Driven Method for Forced Oscillation Localization Under Resonance Conditions](https://ieeexplore.ieee.org/document/9043670)," in *IEEE Transactions on Power Systems*, vol. 35, no. 5, pp. 3927-3939, Sept. 2020. [[PDF]](https://arxiv.org/pdf/1812.06363.pdf)
 
 [J2] **T. Huang**, B. Satchidanandan, P. R. Kumar and L. Xie, "[An Online Detection Framework for Cyber Attacks on Automatic Generation Control](https://ieeexplore.ieee.org/document/8345676)," in *IEEE Transactions on Power Systems*, vol. 33, no. 6, pp. 6816-6827, Nov. 2018. [[PDF]](https://arxiv.org/pdf/1712.06417)[[Supplementary Material]](https://thuang-power.github.io/files/four-area-system.pdf)
