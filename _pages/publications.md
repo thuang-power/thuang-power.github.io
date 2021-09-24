@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journal Publications
 
-[J5] **T. Huang**, S. Gao, and L. Xie, “Transient Stability Assessment of Networked Microgrids Using Neural Lyapunov Methods,” in *IEEE Transactions on Smart Grid* (Accepted, to appear). [[PDF]](https://arxiv.org/pdf/2012.01333.pdf)
+[J5] **T. Huang**, S. Gao, and L. Xie, “Transient Stability Assessment of Networked Microgrids Using Neural Lyapunov Methods,” in *IEEE Transactions on Smart Grid* (accepted, to appear). [[PDF]](https://arxiv.org/pdf/2012.01333.pdf)
 
 [J4] **T. Huang**, J. Ramos-Ruiz, W. Ko, J. Kim, P. Enjeti, P. Kumar, and L. Xie, “Enabling Secure Peer-to-peer Energy Transaction through Dynamic Watermarking in Future Distribution Grids,” in *IEEE Electrification Magazine*, 2021 (to appear).
 
