@@ -13,7 +13,11 @@ Announcements
 =====
 [Sep. 2021] Our paper titled "A Neural Lyapunov Approach to Transient Stability Assessment of Power Electronics-interfaced Networked Microgrids" has been accepted by *IEEE Transactions on Smart Grid*. [[Arxiv](https://arxiv.org/pdf/2012.01333.pdf)]
 
-[Sep. 2021] Our paper titled "[Enabling Secure Peer-to-peer Energy Transaction through Dynamic Watermarking in Future Distribution Grids](https://ieeexplore.ieee.org/document/9528341)" has been published in the *IEEE Electrification Magazine*.
+[Sep. 2021] Our paper titled "[Enabling Secure Peer-to-peer Energy Transaction through Dynamic Watermarking in Future Distribution Grids](https://ieeexplore.ieee.org/document/9528341)" has been published in *IEEE Electrification Magazine*.
+
+[Aug. 2021] Our paper titled "Distributed Learning-based Stability Assessment for Large Scale Networks of Dissipative Systems" has been accepted by *2021 60th Conference on Decision and Control (CDC2021)*.
+
+[Aug. 2021] I obtain my Ph.D. degree!
 
 [May 2021] I've successfully defended my thesis entitled "Physical and Cyber Anomaly Management in Massively Digitized Power Systems."
 
