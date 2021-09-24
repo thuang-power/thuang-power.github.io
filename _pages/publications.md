@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journal Publications
 
-[J5] **T. Huang**, S. Gao, and L. Xie, “Transient Stability Assessment of Networked Microgrids Using Neural Lyapunov Methods,” submitted to *IEEE Transactions on Smart Grid*. [[PDF]](https://arxiv.org/pdf/2012.01333.pdf)
+[J5] **T. Huang**, S. Gao, and L. Xie, “Transient Stability Assessment of Networked Microgrids Using Neural Lyapunov Methods,” in *IEEE Transactions on Smart Grid* (Accepted, to appear). [[PDF]](https://arxiv.org/pdf/2012.01333.pdf)
 
 [J4] **T. Huang**, J. Ramos-Ruiz, W. Ko, J. Kim, P. Enjeti, P. Kumar, and L. Xie, “Enabling Secure Peer-to-peer Energy Transaction through Dynamic Watermarking in Future Distribution Grids,” in *IEEE Electrification Magazine*, 2021 (to appear).
 
@@ -19,6 +19,9 @@ author_profile: true
 [J1] **T. Huang**, M. Wu and L. Xie, "[Prioritization of PMU Location and Signal Selection for Monitoring Critical Power System Oscillations](https://ieeexplore.ieee.org/document/8116598)," in *IEEE Transactions on Power Systems*, vol. 33, no. 4, pp. 3919-3929, July 2018. [[PDF]](https://thuang-power.github.io/files/Journal1_FINAL.pdf)
 
 ## Conference Publications
+[C9] A. Jena, **T. Huang**, S. Sivaranjani, D. Kalathil, and L. Xie, “Distributed Learning-based Stability Assessment for Large Scale Networks of Dissipative Systems,” *2021 60th Conference on Decision and Control (CDC 2021)*.
+
+[C8] J. Ramos-Ruiz, H. Ibrahim, J. Kim, **T. Huang**, P. Enjeti, L. Xie, and, P. Kumar, “Validation of a Robust Cyber Shield for a Grid Connected PV Inverter System via Digital Watermarking Principle,” *2021 IEEE 12th International Symposium on Power Electronics for Distributed Generation Systems (PEDG)*.
 
 [C7] **T. Huang**, H. Sun, K. Kim, D. Nikovski, and L. Xie, “A holistic framework for parameter coordination of interconnected microgrids against disasters,” *IEEE PES General Meeting 2020*. (<span style="color:red">**Best Paper Award**</span>) [[PDF]](https://arxiv.org/abs/2006.13840)
 
