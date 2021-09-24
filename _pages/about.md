@@ -7,10 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in the [Department of Electrical and Computer Engineering](https://engineering.tamu.edu/electrical/index.html) at [Texas A&M University](https://www.tamu.edu). My advisor is [Prof. Le Xie](http://www.ece.tamu.edu/~le.xie/). My research focuses on data analytics, physical/cyber resilience enhancement, and security analysis in massively digitized power grid. From September to December of 2018, I was a visiting Ph.D. student in the Laboratory for Information and Decision Systems ([LIDS](https://lids.mit.edu)) at Massachusetts Institute of Technology ([MIT](http://www.mit.edu)). My industry experience includes an internship at [ISO-New England](https://www.iso-ne.com) in 2018 and an internship at [Mitsubishi Electric Research Laboratories](https://www.merl.com) in 2019.
+I am a postdoctorate researcher in the [Department of Electrical and Computer Engineering](https://engineering.tamu.edu/electrical/index.html) at [Texas A&M University](https://www.tamu.edu). I obtained my Ph.D. degree at Texas A&M University in 2021. My research focuses on data analytics, physical/cyber resilience enhancement, and security analysis in massively digitized power grid. From September to December of 2018, I was a visiting Ph.D. student in the Laboratory for Information and Decision Systems ([LIDS](https://lids.mit.edu)) at Massachusetts Institute of Technology ([MIT](http://www.mit.edu)). My industry experience includes an internship at [ISO-New England](https://www.iso-ne.com) in 2018 and an internship at [Mitsubishi Electric Research Laboratories](https://www.merl.com) in 2019.
 
 Announcements
 =====
+[Sep. 2021] Our paper titled "A Neural Lyapunov Approach to Transient Stability Assessment of Power Electronics-interfaced Networked Microgrids" has been accepted by *IEEE Transactions on Smart Grid*. [[Arxiv](https://arxiv.org/pdf/2012.01333.pdf)]
+
+[Sep. 2021] Our paper titled "[Enabling Secure Peer-to-peer Energy Transaction through Dynamic Watermarking in Future Distribution Grids](https://ieeexplore.ieee.org/document/9528341)" has been published in the *IEEE Electrification Magazine*.
 
 [May 2021] I've successfully defended my thesis entitled "Physical and Cyber Anomaly Management in Massively Digitized Power Systems."
 
