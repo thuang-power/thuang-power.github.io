@@ -28,9 +28,9 @@ Architecture for Future Electric Energy Systems," *Proceedings of the IEEE* (sub
 
 [C8] J. Ramos-Ruiz, H. Ibrahim, J. Kim, **T. Huang**, P. Enjeti, L. Xie, and, P. Kumar, “Validation of a Robust Cyber Shield for a Grid Connected PV Inverter System via Digital Watermarking Principle,” *2021 IEEE 12th International Symposium on Power Electronics for Distributed Generation Systems (PEDG)*.
 
-[C7] **T. Huang**, H. Sun, K. Kim, D. Nikovski, and L. Xie, “A holistic framework for parameter coordination of interconnected microgrids against disasters,” *IEEE PES General Meeting 2020*. (<span style="color:red">**Best Paper Award**</span>) [[PDF]](https://arxiv.org/abs/2006.13840)
+[C7] **T. Huang**, H. Sun, K. Kim, D. Nikovski, and L. Xie, “A holistic framework for parameter coordination of interconnected microgrids against disasters,” *IEEE PES General Meeting 2020*. (<span style="color:red">**Best Paper Award**, *top 5% of around 1600 papers submitted*</span>) [[PDF]](https://arxiv.org/abs/2006.13840)
 
-[C6] **T. Huang**, S. Gao, X. Long, and L. Xie, “A Neural Lyapunov Approach to Transient Stability Assessment in Interconnected Microgrids,” in *54-th Hawaii International Conference on System Sciences (HICSS 54)*, 2021. (<span style="color:red">**Best Paper Award**</span>) [[PDF]](https://scholarspace.manoa.hawaii.edu/bitstream/10125/71020/0327.pdf)
+[C6] **T. Huang**, S. Gao, X. Long, and L. Xie, “A Neural Lyapunov Approach to Transient Stability Assessment in Interconnected Microgrids,” in *54-th Hawaii International Conference on System Sciences (HICSS 54)*, 2021. (<span style="color:red">**Best Paper Award**, *top 0.76% of 1448 papers submitted*</span>) [[PDF]](https://scholarspace.manoa.hawaii.edu/bitstream/10125/71020/0327.pdf)
 
 [C5] J. Ramos-Ruiz, J. Kim, W. Ko, **T. Huang**, P. Enjeti, P. Kumar, and L. Xie, "An Active Detection Scheme for Cyber Attacks on Grid-tied PV Systems," in *IEEE CyberPELS (CyberPELS)*, Miami, FL, USA, 2020, pp. 1-6
 
