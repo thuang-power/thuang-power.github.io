@@ -13,9 +13,9 @@ Architecture for Future Electric Energy Systems,'' *Proceedings of the IEEE* (su
 
 [J6] L. Xie, Y. Sun, X. Zheng, **T. Huang**, and T. Bruton, ``Massively Digitized Power Grid: Opportunities andChallenges from Use-inspired AI,'' *Proceedings of the IEEE* (submitted).
 
-[J5] **T. Huang**, S. Gao, and L. Xie, “Transient Stability Assessment of Networked Microgrids Using Neural Lyapunov Methods,” in *IEEE Transactions on Smart Grid* (accepted, to appear). [[PDF]](https://arxiv.org/pdf/2012.01333.pdf)
+[J5] **T. Huang**, S. Gao, and L. Xie, “Transient Stability Assessment of Networked Microgrids Using Neural Lyapunov Methods,” in *IEEE Transactions on Smart Grid*, vol. 13, no. 1, pp. 106-118, Jan. 2022. [[PDF]](https://arxiv.org/pdf/2012.01333.pdf)
 
-[J4] **T. Huang**, J. Ramos-Ruiz, W. Ko, J. Kim, P. Enjeti, P. Kumar, and L. Xie, “Enabling Secure Peer-to-peer Energy Transaction through Dynamic Watermarking in Future Distribution Grids,” in *IEEE Electrification Magazine*, 2021 (to appear).
+[J4] **T. Huang**, J. Ramos-Ruiz, W. Ko, J. Kim, P. Enjeti, P. Kumar, and L. Xie, “Enabling Secure Peer-to-peer Energy Transaction through Dynamic Watermarking in Future Distribution Grids,” in *IEEE Electrification Magazine*, vol. 9, no. 3, pp. 55-64, Sept. 2021.
 
 [J3] **T. Huang**, N. M. Freris, P. R. Kumar and L. Xie, "A Synchrophasor Data-Driven Method for Forced Oscillation Localization Under Resonance Conditions," in *IEEE Transactions on Power Systems*, vol. 35, no. 5, pp. 3927-3939, Sept. 2020. [[PDF]](https://arxiv.org/pdf/1812.06363.pdf)[[Link]](https://ieeexplore.ieee.org/document/9043670)
 
