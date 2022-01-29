@@ -21,8 +21,8 @@ Announcements
 
 [May 2021] I've successfully defended my thesis entitled "Physical and Cyber Anomaly Management in Massively Digitized Power Systems."
 
-[Jan. 2021] We received the <span style="color:red">**Best Paper Award**, *top 0.76%* of 1448 papers submitted</span> in the 54-th Hawaii International Conference on System Sciences (HICSS 54) for our paper titled “A Neural Lyapunov Approach to Transient Stability Assessment in Interconnected Microgrids.” [[Link]](https://hicss.hawaii.edu/best-papers/)
+[Jan. 2021] We received the <span style="color:red">**Best Paper Award**, (*top 0.76%* of 1448 papers submitted)</span> in the 54-th Hawaii International Conference on System Sciences (HICSS 54) for our paper titled “A Neural Lyapunov Approach to Transient Stability Assessment in Interconnected Microgrids.” [[Link]](https://hicss.hawaii.edu/best-papers/)
 
-[Jun. 2020] We received the **Best Paper Award** in IEEE Power and Energy Society (PES) General Meeting 2020 for our paper titled “A Holistic Framework for Parameter Coordination of Interconnected Microgrids Against Disaster.” [[News]](https://engineering.tamu.edu/news/2020/09/research-team-receives-best-paper-award-at-flagship-conference.html)[[Link]](https://ieeexplore.ieee.org/abstract/document/9281628)
+[Jun. 2020] We received the <span style="color:red">**Best Paper Award**, (*top 5%* of 1600 papers submitted)</span> in IEEE Power and Energy Society (PES) General Meeting 2020 for our paper titled “A Holistic Framework for Parameter Coordination of Interconnected Microgrids Against Disaster.” [[News]](https://engineering.tamu.edu/news/2020/09/research-team-receives-best-paper-award-at-flagship-conference.html)[[Link]](https://ieeexplore.ieee.org/abstract/document/9281628)
 
 [Mar. 2020] Our paper titled "A Synchrophasor Data-Driven Method for Forced Oscillation Localization Under Resonance Condition" has been accepted by *IEEE Transactions on Power Systems*. [[Link]](https://ieeexplore.ieee.org/abstract/document/9043670)
