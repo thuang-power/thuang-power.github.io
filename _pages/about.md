@@ -13,7 +13,7 @@ I am a postdoctoral researcher in the Laboratory for Information and Decision Sy
 Announcements
 =====
 
-<span style="color:blue">I will join the ECE department at San Diego State University as a tenure-track Assistant Professor, starting Aug. 2022. My research focuses on data analytics, cyber security, and modeling and control of electric energy systems with inverter-based resources. My research group has <span style="color:#AA6C39">**two fully funded Ph.D. positions**</span>. If you are interested in joining my research group, please email your CV and transcript to tonghuang21 AT gmail DOT com</span>
+<span style="color:blue">I will join the ECE department at San Diego State University as a tenure-track Assistant Professor, starting Aug. 2022. My research focuses on data analytics, cyber security, and modeling and control of electric energy systems with inverter-based resources. My research group has <span style="color:#AA6C39">**two fully funded Ph.D. positions**</span>. If you are interested in joining my research group, please email your CV and transcript to "tonghuang21 AT gmail DOT com"</span>
 
 [Sep. 2021] Our paper titled "A Neural Lyapunov Approach to Transient Stability Assessment of Power Electronics-interfaced Networked Microgrids" has been accepted by *IEEE Transactions on Smart Grid*. [[Arxiv](https://arxiv.org/pdf/2012.01333.pdf)]
 
