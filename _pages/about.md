@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a postdoctoral researcher in the Laboratory for Information and Decision Systems ([LIDS](https://lids.mit.edu)) at [MIT](https://www.mit.edu). Before joining MIT, I was a postdoc researcher in the Department of Electrical and Computer Engineering at Texas A&M University where I obtained my Ph.D. degree in 2021. My research focuses on data analytics, physical/cyber resilience enhancement, and security analysis in massively digitized power grid. From September to December of 2018, I was a visiting Ph.D. student in the LIDS at MIT. My industry experience includes an internship at [ISO-New England](https://www.iso-ne.com) in 2018 and an internship at [Mitsubishi Electric Research Laboratories](https://www.merl.com) in 2019.
 
-<span style="color:red">I will join the ECE department at San Diego State University as a tenure-track Assistant Professor. My research focuses on data analytics, cyber security, and modeling and control of electric energy systems with inverter-based resources. My research group has two fully funded Ph.D. positions. If you are interested in joining my research group, please email your CV and transcript to tonghuang21 AT gmail DOT com</span>
+I will join the ECE department at San Diego State University as a tenure-track Assistant Professor, starting Aug. 2022. My research focuses on data analytics, cyber security, and modeling and control of electric energy systems with inverter-based resources. My research group has <span class="text-effect-shortcodes-rainbow">**two fully funded Ph.D. positions**</span>. If you are interested in joining my research group, please email your CV and transcript to tonghuang21 AT gmail DOT com
 
 Announcements
 =====
