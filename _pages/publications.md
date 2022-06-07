@@ -9,9 +9,9 @@ author_profile: true
 ## Journal Publications
 
 [J7] L. Xie, **T. Huang**, P. Kumar, A. Thatte, and S. Mitter, "On a Control 
-Architecture for Future Electric Energy Systems," *Proceedings of the IEEE* (submitted).
+Architecture for Future Electric Energy Systems," *Proceedings of the IEEE* (submitted). [[PDF]](https://arxiv.org/pdf/2206.00160.pdf)
 
-[J6] L. Xie, Y. Sun, X. Zheng, **T. Huang**, and T. Bruton, "Massively Digitized Power Grid: Opportunities and Challenges from Use-inspired AI," *Proceedings of the IEEE* (submitted).
+[J6] L. Xie, Y. Sun, X. Zheng, **T. Huang**, and T. Bruton, "Massively Digitized Power Grid: Opportunities and Challenges from Use-inspired AI," *Proceedings of the IEEE* (accepted, to appear). [[PDF]](https://arxiv.org/pdf/2205.05180.pdf)
 
 [J5] **T. Huang**, S. Gao, and L. Xie, “Transient Stability Assessment of Networked Microgrids Using Neural Lyapunov Methods,” in *IEEE Transactions on Smart Grid*, vol. 13, no. 1, pp. 106-118, Jan. 2022. [[PDF]](https://arxiv.org/pdf/2012.01333.pdf)
 
