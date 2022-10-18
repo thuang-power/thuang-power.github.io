@@ -13,7 +13,7 @@ Tong Huang is an Assistant Professor in the Department of ECE at San Diego State
 Announcements
 =====
 
-<span style="color:blue">IMy research group has <span style="color:#AA6C39">**two fully funded Ph.D. positions**</span>. If you are interested in joining my research group, please email your CV and transcript to "tonghuang21 AT gmail DOT com"</span>
+<span style="color:blue">My research group has <span style="color:#AA6C39">**two fully funded Ph.D. positions**</span>. If you are interested in joining my research group, please email your CV and transcript to "thuang7 AT gmail DOT com"</span>
 
 [Sep. 2021] Our paper titled "A Neural Lyapunov Approach to Transient Stability Assessment of Power Electronics-interfaced Networked Microgrids" has been accepted by *IEEE Transactions on Smart Grid*. [[Arxiv](https://arxiv.org/pdf/2012.01333.pdf)]
 
