@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journal Publications
 
-[J10] **T. Huang**, D. Wu, and M. Ilic, “Cyber-resilient Automatic Generation Control for Systems of Microgrids,” submitted *IEEE Transactions on Smart Grid*, under the second round of review.
+[J10] **T. Huang**, D. Wu, and M. Ilic, “Cyber-resilient Automatic Generation Control for Systems of Microgrids,” submitted *IEEE Transactions on Smart Grid*, under the second round of review [[PDF]](https://arxiv.org/abs/2208.11163).
 
 [J9] L. Xie, **T. Huang**, P. Kumar, A. Thatte, and S. Mitter, "On an Information and Control 
 Architecture for Future Electric Energy Systems," *Proceedings of the IEEE* (accepted, to appear). [[PDF]](https://arxiv.org/pdf/2206.00160.pdf)
