@@ -8,20 +8,26 @@ author_profile: true
 
 ## Journal Publications
 
-[J7] L. Xie, **T. Huang**, P. Kumar, A. Thatte, and S. Mitter, "On a Control 
-Architecture for Future Electric Energy Systems," *Proceedings of the IEEE* (submitted). [[PDF]](https://arxiv.org/pdf/2206.00160.pdf)
+[J10] **T. Huang**, D. Wu, and M. Ilic, “Cyber-resilient Automatic Generation Control for Systems of Microgrids,” submitted *IEEE Transactions on Smart Grid*, under the second round of review.
 
-[J6] L. Xie, Y. Sun, X. Zheng, **T. Huang**, and T. Bruton, "Massively Digitized Power Grid: Opportunities and Challenges from Use-inspired AI," *Proceedings of the IEEE* (accepted, to appear). [[PDF]](https://arxiv.org/pdf/2205.05180.pdf)
+[J9] L. Xie, **T. Huang**, P. Kumar, A. Thatte, and S. Mitter, "On an Information and Control 
+Architecture for Future Electric Energy Systems," *Proceedings of the IEEE* (accepted, to appear). [[PDF]](https://arxiv.org/pdf/2206.00160.pdf)
 
-[J5] **T. Huang**, S. Gao, and L. Xie, “Transient Stability Assessment of Networked Microgrids Using Neural Lyapunov Methods,” in *IEEE Transactions on Smart Grid*, vol. 13, no. 1, pp. 106-118, Jan. 2022. [[PDF]](https://arxiv.org/pdf/2012.01333.pdf)
+[J8] L. Xie, **T. Huang**, X. Zheng, Y. Liu, M. Wang, V. Vittal, P. Kumar, S. Shakkottai, E. Xing, and Y. Cui, "Accelerating the Electric Grid Carbon Neutral Transition through Domain-tailored Artificial Intelligence," *Pattern*, Cell Press (accepted, to appear).
 
-[J4] **T. Huang**, J. Ramos-Ruiz, W. Ko, J. Kim, P. Enjeti, P. Kumar, and L. Xie, “Enabling Secure Peer-to-peer Energy Transaction through Dynamic Watermarking in Future Distribution Grids,” in *IEEE Electrification Magazine*, vol. 9, no. 3, pp. 55-64, Sept. 2021.
+[J7] L. Xie, Y. Sun, X. Zheng, **T. Huang**, and T. Bruton, "Massively Digitized Power Grid: Opportunities and Challenges from Use-inspired AI," *Proceedings of the IEEE* (accepted, to appear). [[PDF]](https://arxiv.org/pdf/2205.05180.pdf)
 
-[J3] **T. Huang**, N. M. Freris, P. R. Kumar and L. Xie, "A Synchrophasor Data-Driven Method for Forced Oscillation Localization Under Resonance Conditions," in *IEEE Transactions on Power Systems*, vol. 35, no. 5, pp. 3927-3939, Sept. 2020. [[PDF]](https://arxiv.org/pdf/1812.06363.pdf)[[Link]](https://ieeexplore.ieee.org/document/9043670)
+[J6] **T. Huang**, S. Gao, and L. Xie, “Transient Stability Assessment of Networked Microgrids Using Neural Lyapunov Methods,” in *IEEE Transactions on Smart Grid*, vol. 13, no. 1, pp. 106-118, Jan. 2022. [[PDF]](https://arxiv.org/pdf/2012.01333.pdf)
 
-[J2] **T. Huang**, B. Satchidanandan, P. R. Kumar and L. Xie, "An Online Detection Framework for Cyber Attacks on Automatic Generation Control," in *IEEE Transactions on Power Systems*, vol. 33, no. 6, pp. 6816-6827, Nov. 2018. [[PDF]](https://arxiv.org/pdf/1712.06417)[[Link]](https://ieeexplore.ieee.org/document/8345676)[[Supp.]](https://thuang-power.github.io/files/four-area-system.pdf)
+[J5] **T. Huang**, J. Ramos-Ruiz, W. Ko, J. Kim, P. Enjeti, P. Kumar, and L. Xie, “Enabling Secure Peer-to-peer Energy Transaction through Dynamic Watermarking in Future Distribution Grids,” in *IEEE Electrification Magazine*, vol. 9, no. 3, pp. 55-64, Sept. 2021.
 
-[J1] **T. Huang**, M. Wu and L. Xie, "Prioritization of PMU Location and Signal Selection for Monitoring Critical Power System Oscillations," in *IEEE Transactions on Power Systems*, vol. 33, no. 4, pp. 3919-3929, July 2018. [[PDF]](https://thuang-power.github.io/files/Journal1_FINAL.pdf)[[Link]](https://ieeexplore.ieee.org/document/8116598)
+[J4] **T. Huang**, N. M. Freris, P. R. Kumar and L. Xie, "A Synchrophasor Data-Driven Method for Forced Oscillation Localization Under Resonance Conditions," in *IEEE Transactions on Power Systems*, vol. 35, no. 5, pp. 3927-3939, Sept. 2020. [[PDF]](https://arxiv.org/pdf/1812.06363.pdf)[[Link]](https://ieeexplore.ieee.org/document/9043670)
+
+[J3] **T. Huang**, B. Satchidanandan, P. R. Kumar and L. Xie, "An Online Detection Framework for Cyber Attacks on Automatic Generation Control," in *IEEE Transactions on Power Systems*, vol. 33, no. 6, pp. 6816-6827, Nov. 2018. [[PDF]](https://arxiv.org/pdf/1712.06417)[[Link]](https://ieeexplore.ieee.org/document/8345676)[[Supp.]](https://thuang-power.github.io/files/four-area-system.pdf)
+
+[J2] **T. Huang**, M. Wu and L. Xie, "Prioritization of PMU Location and Signal Selection for Monitoring Critical Power System Oscillations," in *IEEE Transactions on Power Systems*, vol. 33, no. 4, pp. 3919-3929, July 2018. [[PDF]](https://thuang-power.github.io/files/Journal1_FINAL.pdf)[[Link]](https://ieeexplore.ieee.org/document/8116598)
+
+[J1] X. Zheng, N. Xu, L. Trinh, D. Wu, **T. Huang**, S. Sivaranjani, Y. Liu, and L. Xie,“A multi-scale time-series dataset with benchmark for machine learning in decarbonized energy grids,” in *Scientific Data*, Nature Publication Group, Jun. 2022.
 
 ## Conference Publications
 [C9] A. Jena, **T. Huang**, S. Sivaranjani, D. Kalathil, and L. Xie, “Distributed Learning-based Stability Assessment for Large Scale Networks of Dissipative Systems,” *2021 60th Conference on Decision and Control (CDC 2021)*.
