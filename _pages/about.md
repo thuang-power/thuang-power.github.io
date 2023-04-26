@@ -15,6 +15,14 @@ Announcements
 
 <span style="color:blue">My research group has <span style="color:#AA6C39">**two fully funded Ph.D. positions**</span>. If you are interested in joining my research group, please email your CV and transcript to "thuang7 AT sdsu DOT edu"</span>
 
+[Apr. 2023] Our paper titled "Cyber-resilient Automatic Generation Control for Systems of Microgrids" has been accepted by *IEEE Transactions on Smart Grid*.
+
+[Dec. 2022] Our paper titled "Accelerating the Electric Grid Carbon Neutral Transition through Domain-tailored Artificial Intelligence" has been accepted by *Pattern (Cell Press)*.
+
+[Nov. 2022] Our paper titled "On an Information and Control Architecture for Future Electric Energy Systems" has been accepted by *Proceedings of the IEEE*. [[Arxiv](https://arxiv.org/pdf/2206.00160.pdf)]
+
+[Jun. 2022] Our paper titled "Massively Digitized Power Grid: Opportunities and Challenges from Use-inspired AI" has been accepted by *Proceedings of the IEEE*. [[Arxiv](https://arxiv.org/pdf/2205.05180.pdf)]
+
 [Sep. 2021] Our paper titled "A Neural Lyapunov Approach to Transient Stability Assessment of Power Electronics-interfaced Networked Microgrids" has been accepted by *IEEE Transactions on Smart Grid*. [[Arxiv](https://arxiv.org/pdf/2012.01333.pdf)]
 
 [Sep. 2021] Our paper titled "Enabling Secure Peer-to-peer Energy Transaction through Dynamic Watermarking in Future Distribution Grids" has been published in *IEEE Electrification Magazine*. [[Link]](https://ieeexplore.ieee.org/document/9528341)
