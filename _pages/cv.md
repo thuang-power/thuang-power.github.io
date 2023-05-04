@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Group"
+title: "Group Members"
 permalink: /group/
 
 ---
