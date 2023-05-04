@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Tong Huang is an Assistant Professor in the Department of ECE at San Diego State University. Before joining SDSU, he was a postdoctoral associate at MIT. He received his Ph.D. degree from Texas A&M University in 2021. His industry experience includes an internship with ISO-New England in 2018 and an internship with Mitsubishi Electric Research Laboratories in 2019. As the first author, he received two Best Paper Awards at the 2020 IEEE PES General Meeting and the 54-th Hawaii International Conference on System Sciences. His research focuses on cyber-physical resilience enhancement of power electronics-dominated electricity infrastructure via both data-driven and model-based approaches.
+Tong Huang is an Assistant Professor in the Department of ECE at San Diego State University. Before joining SDSU, he was a postdoctoral associate at MIT. He received his Ph.D. degree from Texas A&M University in 2021. His industry experience includes an internship with ISO-New England in 2018 and an internship with Mitsubishi Electric Research Laboratories in 2019. As the first author, he received two Best Paper Awards at the 2020 IEEE PES General Meeting and the 54-th Hawaii International Conference on System Sciences. His research focuses on cyber-physical resilience enhancement of power electronics-dominated electricity infrastructure via both data-driven and model-based approaches. My CV can be found [here](https://thuang-power.github.io/files/cv_tong.pdf).
 
 
 Announcements
