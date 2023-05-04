@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Group"
-permalink: /Group/
+permalink: /group/
 
 ---
 
