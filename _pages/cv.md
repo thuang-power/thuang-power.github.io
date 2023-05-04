@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: "Research Group"
+permalink: /Group/
+
 ---
 
-My CV can be found [here](https://thuang-power.github.io/files/cv_tong.pdf).
+<span style="color:blue">My research group has <span style="color:#AA6C39">**two fully funded Ph.D. positions**</span>. If you are interested in joining my research group, please email your CV and transcript to "thuang7 AT sdsu DOT edu"</span>
