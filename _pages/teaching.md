@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+**EE380: Power System Analysis**, 2023 Spring at SDSU
+* Class size: 46 students
+* Teaching evaluation: **4.81 out of 5**
 
 **EE480: Power System Analysis**, 2022 Fall at SDSU
 * Class size: 22 students
