@@ -19,5 +19,6 @@ author_profile: true
 
 
 **Teaching as a graduate teaching fellow:**
+
 **ECEN 489/689: Application of Data Science in Modern Power Systems**, 2020 Spring at TAMU
 * Teaching evaluation: Not available due to COVID.
