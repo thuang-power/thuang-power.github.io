@@ -9,7 +9,7 @@ author_profile: true
 
 **Teaching as an assistant professor**
 
-**EE380: Power System Analysis**, 2023 Spring at SDSU
+**EE380: Electric Energy Conversion**, 2023 Spring at SDSU
 * Class size: 46 students
 * Teaching evaluation: **4.81 out of 5**
 
