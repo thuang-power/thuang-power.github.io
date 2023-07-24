@@ -13,7 +13,9 @@ Tong Huang is an Assistant Professor in the Department of ECE at San Diego State
 Announcements
 =====
 
-<span style="color:blue">My research group has <span style="color:#AA6C39">**two fully funded Ph.D. positions**</span>. If you are interested in joining my research group, please email your CV and transcript to "thuang7 AT sdsu DOT edu"</span>
+<!-- <span style="color:blue">My research group has <span style="color:#AA6C39">**one fully funded Ph.D. position**</span>. If you are interested in joining my research group, please email your CV and transcript to "thuang7 AT sdsu DOT edu"</span> -->
+
+[Jul. 2023] As the first author, I received the prestigious IEEE Power and Energy Society (PES) <span style="color:red">**Technical Committee Prize Paper Award**</span> from the IEEE PES Analytic Methods for Power Systems Committee. See [here](https://ieeexplore.ieee.org/document/9559389) for the prize paper.
 
 [Apr. 2023] Our paper titled "Cyber-resilient Automatic Generation Control for Systems of Microgrids" has been accepted by *IEEE Transactions on Smart Grid*.
 
