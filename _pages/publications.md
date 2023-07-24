@@ -17,7 +17,7 @@ Architecture for Future Electric Energy Systems," *Proceedings of the IEEE* (acc
 
 [J7] L. Xie, Y. Sun, X. Zheng, **T. Huang**, and T. Bruton, "Massively Digitized Power Grid: Opportunities and Challenges from Use-inspired AI," *Proceedings of the IEEE* (accepted, to appear). [[PDF]](https://arxiv.org/pdf/2205.05180.pdf)
 
-[J6] **T. Huang**, S. Gao, and L. Xie, “Transient Stability Assessment of Networked Microgrids Using Neural Lyapunov Methods,” in *IEEE Transactions on Smart Grid*, vol. 13, no. 1, pp. 106-118, Jan. 2022. [[PDF]](https://arxiv.org/pdf/2012.01333.pdf) (<span style="color:red"> **IEEE PES Technical Committee Prize Paper Award** </span>)
+[J6] **T. Huang**, S. Gao, and L. Xie, “Transient Stability Assessment of Networked Microgrids Using Neural Lyapunov Methods,” in *IEEE Transactions on Smart Grid*, vol. 13, no. 1, pp. 106-118, Jan. 2022. [[PDF]](https://arxiv.org/pdf/2012.01333.pdf) (<span style="color:red"> **IEEE PES Technical Committee Prize Paper Award**</span>)
 
 [J5] **T. Huang**, J. Ramos-Ruiz, W. Ko, J. Kim, P. Enjeti, P. Kumar, and L. Xie, “Enabling Secure Peer-to-peer Energy Transaction through Dynamic Watermarking in Future Distribution Grids,” in *IEEE Electrification Magazine*, vol. 9, no. 3, pp. 55-64, Sept. 2021.
 
