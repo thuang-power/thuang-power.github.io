@@ -15,7 +15,7 @@ Announcements
 
 <!-- <span style="color:blue">My research group has <span style="color:#AA6C39">**one fully funded Ph.D. position**</span>. If you are interested in joining my research group, please email your CV and transcript to "thuang7 AT sdsu DOT edu"</span> -->
 
-[Jul. 2023] As the first author, I received the prestigious IEEE Power and Energy Society (PES) <span style="color:red">**Technical Committee Prize Paper Award**</span> from the IEEE PES Analytic Methods for Power Systems Committee. See [here](https://ieeexplore.ieee.org/document/9559389) for the prize paper. [News](https://www.engineering.sdsu.edu/news/2023/_files/ece-professor-ieee-power-and-energy-society-2023)
+[Jul. 2023] As the first author, I received the prestigious IEEE Power and Energy Society (PES) <span style="color:red">**Technical Committee Prize Paper Award**</span> from the IEEE PES Analytic Methods for Power Systems Committee. See [here](https://ieeexplore.ieee.org/document/9559389) for the prize paper. [[News]](https://www.engineering.sdsu.edu/news/2023/_files/ece-professor-ieee-power-and-energy-society-2023)
 
 [Apr. 2023] Our paper titled "Cyber-resilient Automatic Generation Control for Systems of Microgrids" has been accepted by *IEEE Transactions on Smart Grid*.
 
