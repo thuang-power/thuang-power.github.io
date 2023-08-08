@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Tong Huang is an Assistant Professor in the Department of ECE at San Diego State University. Before joining SDSU, he was a postdoctoral associate in the Laboratory for Information and Decision Systems (LIDS) at the Massachusetts Institute of Technology (MIT). He received his Ph.D. degree from Texas A&M University in 2021. His industry experience includes an internship with ISO-New England in 2018 and an internship with Mitsubishi Electric Research Laboratories in 2019. As the first author, he received two Best Paper Awards at the 2020 IEEE PES General Meeting and the 54-th Hawaii International Conference on System Sciences. His research focuses on cyber-physical resilience enhancement of power electronics-dominated electricity infrastructure via both data-driven and model-based approaches. My CV can be found [here](https://thuang-power.github.io/files/cv_tong.pdf).
+Tong Huang is an Assistant Professor in the Department of ECE at San Diego State University. Before joining SDSU, he was a postdoctoral associate in the Laboratory for Information and Decision Systems (LIDS) at the Massachusetts Institute of Technology (MIT). He received his Ph.D. degree from Texas A&M University in 2021. His industry experience includes an internship with ISO-New England in 2018 and an internship with Mitsubishi Electric Research Laboratories in 2019. As the first author, he received two Best Paper Awards at the 2020 IEEE PES General Meeting and the 54-th Hawaii International Conference on System Sciences. His research focuses on cyber-physical resilience enhancement of power electronics-dominated electricity infrastructure via both data-driven and model-based approaches. His CV can be found [here](https://thuang-power.github.io/files/cv_tong.pdf).
 
 
 Announcements
@@ -15,7 +15,7 @@ Announcements
 
 <!-- <span style="color:blue">My research group has <span style="color:#AA6C39">**one fully funded Ph.D. position**</span>. If you are interested in joining my research group, please email your CV and transcript to "thuang7 AT sdsu DOT edu"</span> -->
 
-[Jul. 2023] As the first author, I received the prestigious IEEE Power and Energy Society (PES) <span style="color:red">**Technical Committee Prize Paper Award**</span> from the IEEE PES Analytic Methods for Power Systems Committee. See [here](https://ieeexplore.ieee.org/document/9559389) for the prize paper.
+[Jul. 2023] As the first author, I received the prestigious IEEE Power and Energy Society (PES) <span style="color:red">**Technical Committee Prize Paper Award**</span> from the IEEE PES Analytic Methods for Power Systems Committee. See [here](https://ieeexplore.ieee.org/document/9559389) for the prize paper. [News](https://www.engineering.sdsu.edu/news/2023/_files/ece-professor-ieee-power-and-energy-society-2023)
 
 [Apr. 2023] Our paper titled "Cyber-resilient Automatic Generation Control for Systems of Microgrids" has been accepted by *IEEE Transactions on Smart Grid*.
 
