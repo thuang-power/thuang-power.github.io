@@ -13,7 +13,7 @@ Tong Huang is an Assistant Professor in the Department of ECE at San Diego State
 Announcements
 =====
 
-<!-- <span style="color:blue">My research group has <span style="color:#AA6C39">**one fully funded Ph.D. position**</span> starting in Fall 2024. If you are interested in joining my research group, please email your CV and transcript to "thuang7 AT sdsu DOT edu"</span> -->
+<span style="color:blue">My research group has <span style="color:#AA6C39">**one fully funded Ph.D. position**</span> starting in Fall 2024. If you are interested in joining my research group, please email your CV and transcript to "thuang7 AT sdsu DOT edu"</span>
 
 [Aug. 2023] As the leading PI, Dr. Huang received the <span style="color:red">**NSF ASCENT Award**</span>. The project aims to boost cyber and physical resilience of networked IBRs. Thanks, NSF! See [here]((https://www.nsf.gov/awardsearch/showAward?AWD_ID=2328205&HistoricalAwards=false)) for more details.
 
