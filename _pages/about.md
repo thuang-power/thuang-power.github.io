@@ -17,7 +17,7 @@ Announcements
 
 [Aug. 2023] As the leading PI, Dr. Huang received the <span style="color:red">**NSF ASCENT Award**</span>. The project aims to boost cyber and physical resilience of networked IBRs. Thanks, NSF! See [here]((https://www.nsf.gov/awardsearch/showAward?AWD_ID=2328205&HistoricalAwards=false)) for more details.
 
-[Aug. 2023] As a keynote speaker, Dr. Huang gave a talk at [SPP 2023 Tech Expo](https://www.spp.org/calendar-list/2023-spp-techexpo-20230803/) in Kansas City, MO. [[Agenda]](https://www.spp.org/media/1998/expo-presenters-update-_-final.pdf)
+[Aug. 2023] As a keynote speaker, Dr. Huang gave a talk at [SPP 2023 Tech Expo](https://www.spp.org/calendar-list/2023-spp-techexpo-20230803/) in Kansas City, MO. [[Agenda](https://www.spp.org/media/1998/expo-presenters-update-_-final.pdf)]
 
 [Jul. 2023] As the first author, I received the prestigious IEEE Power and Energy Society (PES) <span style="color:red">**Technical Committee Prize Paper Award**</span> from the IEEE PES Analytic Methods for Power Systems Committee. See [here](https://ieeexplore.ieee.org/document/9559389) for the prize paper. [[News]](https://www.engineering.sdsu.edu/news/2023/ece-professor-ieee-power-and-energy-society-2023)
 
