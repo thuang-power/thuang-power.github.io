@@ -17,6 +17,8 @@ Announcements
 
 [Aug. 2023] As the leading PI, Dr. Huang received the <span style="color:red">**NSF ASCENT Award**</span>. The project aims to boost cyber and physical resilience of networked IBRs. Thanks, NSF! See [here]((https://www.nsf.gov/awardsearch/showAward?AWD_ID=2328205&HistoricalAwards=false)) for more details.
 
+[Aug. 2023] As a keynote speaker, Dr. Huang gave a talk at [SPP 2023 Tech Expo](https://www.spp.org/calendar-list/2023-spp-techexpo-20230803/) in Kansas City, MO. [Agenda](https://www.spp.org/media/1998/expo-presenters-update-_-final.pdf)
+
 [Jul. 2023] As the first author, I received the prestigious IEEE Power and Energy Society (PES) <span style="color:red">**Technical Committee Prize Paper Award**</span> from the IEEE PES Analytic Methods for Power Systems Committee. See [here](https://ieeexplore.ieee.org/document/9559389) for the prize paper. [[News]](https://www.engineering.sdsu.edu/news/2023/ece-professor-ieee-power-and-energy-society-2023)
 
 [Apr. 2023] Our paper titled "Cyber-resilient Automatic Generation Control for Systems of Microgrids" has been accepted by *IEEE Transactions on Smart Grid*.
@@ -24,6 +26,8 @@ Announcements
 [Dec. 2022] Our paper titled "Accelerating the Electric Grid Carbon Neutral Transition through Domain-tailored Artificial Intelligence" has been accepted by *Pattern (Cell Press)*.
 
 [Nov. 2022] Our paper titled "On an Information and Control Architecture for Future Electric Energy Systems" has been accepted by *Proceedings of the IEEE*. [[Arxiv](https://arxiv.org/pdf/2206.00160.pdf)]
+
+[Nov. 2022] Dr. Huang was invited to give a talk at the [MAE Seminar Series organized by UCSD](https://mae.ucsd.edu/seminar/2023/cyber-physical-anomaly-management-massively-digitized-power-systems).
 
 [Jun. 2022] Our paper titled "Massively Digitized Power Grid: Opportunities and Challenges from Use-inspired AI" has been accepted by *Proceedings of the IEEE*. [[Arxiv](https://arxiv.org/pdf/2205.05180.pdf)]
 
