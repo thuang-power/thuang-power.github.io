@@ -15,7 +15,7 @@ Announcements
 
 <!-- <span style="color:blue">My research group has <span style="color:#AA6C39">**one fully funded Ph.D. position**</span> starting in Fall 2024. If you are interested in joining my research group, please email your CV and transcript to "thuang7 AT sdsu DOT edu"</span> -->
 
-[Aug. 2023] As the leading PI, Dr. Huang received the [<span style="color:red">**NSF ASCENT Award**</span>](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2328205&HistoricalAwards=false). The project is to boost cyber and physical resilience of networked IBRs. Thanks, NSF!
+[Aug. 2023] As the leading PI, Dr. Huang received the <span style="color:red">**NSF ASCENT Award**</span>. The project aims to boost cyber and physical resilience of networked IBRs. Thanks, NSF! See [here]((https://www.nsf.gov/awardsearch/showAward?AWD_ID=2328205&HistoricalAwards=false)) for more details.
 
 [Jul. 2023] As the first author, I received the prestigious IEEE Power and Energy Society (PES) <span style="color:red">**Technical Committee Prize Paper Award**</span> from the IEEE PES Analytic Methods for Power Systems Committee. See [here](https://ieeexplore.ieee.org/document/9559389) for the prize paper. [[News]](https://www.engineering.sdsu.edu/news/2023/ece-professor-ieee-power-and-energy-society-2023)
 
