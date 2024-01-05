@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-**Teaching as an assistant professor**
 
 **EE310: Circuit Analysis II**, 2023 Fall at SDSU
 * Class size: 64 students
