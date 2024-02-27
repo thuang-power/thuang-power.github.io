@@ -15,7 +15,7 @@ Announcements
 
 <span style="color:blue">My research group has <span style="color:#AA6C39">**two fully funded Ph.D. position**</span> starting in Fall 2024. If you are interested in joining my research group, please email your CV and transcript to "thuang7 AT sdsu DOT edu"</span>
 
-[Aug. 2023] As the lead PI, Dr. Huang received the <span style="color:red">**NSF ASCENT Award**</span> ($1.5M). The project aims to boost cyber and physical resilience of networked IBRs. Thanks, NSF!
+[Aug. 2023] As the lead PI, Dr. Huang received the <span style="color:red">**NSF ASCENT Award**</span> (1.5M USD). The project aims to boost cyber and physical resilience of networked IBRs. Thanks, NSF!
 
 [Aug. 2023] As a keynote speaker, Dr. Huang gave a talk at [SPP 2023 Tech Expo](https://www.spp.org/calendar-list/2023-spp-techexpo-20230803/) in Kansas City, MO. [[Agenda](https://www.spp.org/media/1998/expo-presenters-update-_-final.pdf)]
 
