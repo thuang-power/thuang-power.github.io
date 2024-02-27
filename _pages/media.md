@@ -8,6 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
+"[SDSU Researchers Working to Protect Power Grids Against Natural Disasters and Cyberattacks](https://www.sdsu.edu/news/2023/10/sdsu-researchers-working-protect-power-grids-against-natural-disasters-cyberattacks?utm_source=go&utm_medium=redirect&utm_campaign=newscenter.sdsu.edu)" *San Diego State University College of Engineering News*, Oct., 2023.
+
+
 "[ECE Professor received the prestigious IEEE Power and Energy Society Technical Committee Prize Paper Award](https://www.engineering.sdsu.edu/news/2023/ece-professor-ieee-power-and-energy-society-2023)" *San Diego State University College of Engineering News*, Aug, 2023.
 
 “[HICSS-54 Best Paper Award – Tong et al., 2021](https://smartgridcenter.tamu.edu/index.php/2021/01/13/hicss-54-best-paper-award-tong-et-al-2021/)”
