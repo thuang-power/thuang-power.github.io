@@ -86,7 +86,7 @@ author:
   bio              : "Assistant Professor @ SDSU"
   location         : #"Location"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=ZOo09b4AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AILGF5XzqnRFeicKq28Pi72aecInbDY0pBPePQVvQU7sHrAYNvjeNvOJ4jZQo0LpxotuQrJJPBvQUL7OYQGGIA&user=tllWWt8AAAAJ"
   email            : "thuang7@sdsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tong-huang"
+  linkedin         : "https://www.linkedin.com/in/tong-huang/"
   orcid            : "https://orcid.org/0000-0002-2630-4825"
   pinterest        :
   soundcloud       :
