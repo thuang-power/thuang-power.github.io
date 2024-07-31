@@ -12,8 +12,13 @@ Tong Huang is an Assistant Professor in the Department of ECE at San Diego State
 
 Announcements
 =====
-
+<!---
 <span style="color:blue">My research group has <span style="color:#AA6C39">**two fully funded Ph.D. position**</span> starting in Fall 2024. If you are interested in joining my research group, please email your CV and transcript to "thuang7 AT sdsu DOT edu"</span>
+-->
+
+[Oct. 2023] Our paper titled "Detection of Cyber Attacks in Grid-Tied PV Systems Using Dynamic Watermarking" is accepted by IEEE Transactions on Industry Applications. See [here](https://ieeexplore.ieee.org/abstract/document/10268968) for the full paper.
+
+[Sep. 2023] Our paper titled "Robust Dynamic Watermarking for Cyber-Physical Security of Inverter-Based Resources in Power Distribution Systems" is accepted by IEEE Transactions on Industrial Electronics. See [here](https://ieeexplore.ieee.org/abstract/document/10242131) for the full paper.
 
 [Aug. 2023] As the lead PI, Dr. Huang received the <span style="color:red">**NSF ASCENT Award**</span> (\$1.5M). The project aims to boost cyber and physical resilience of networked IBRs. Thanks, NSF!
 
