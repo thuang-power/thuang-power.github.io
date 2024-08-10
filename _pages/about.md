@@ -15,7 +15,10 @@ Announcements
 <!---
 <span style="color:blue">My research group has <span style="color:#AA6C39">**two fully funded Ph.D. position**</span> starting in Fall 2024. If you are interested in joining my research group, please email your CV and transcript to "thuang7 AT sdsu DOT edu"</span>
 -->
+
+<!---
 [Jul. 2024] My single-authored paper titled "Non-intrusive Enforcement of Decentralized Stability Protocol for IBRs in AC Microgrids" is under the third-round review in *IEEE Transcations on Smart Grid*. The preprint version is [here](https://arxiv.org/abs/2310.09450). 
+-->
 
 [Jun. 2024] Our paper titled "The Role of Electric Grid Research in Addressing Climate Change" has been accepted in *Nature Climate Change*. The preprint is [here](https://arxiv.org/abs/2406.17976). 
 
