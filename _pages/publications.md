@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
+<!---
 ## Papers under review
 [UR1] **T. Huang**, "Non-intrusive Enforcement of Decentralized Stability Protocol for IBRs in AC Microgrids," submitted to *IEEE Transactions on Smart Grid*, (under the 3rd round of review).
-
+-->
 ## Journal Publications
 [J13] L. Xie, S., **T. Huang**, Q. Zhang, P. Chang, D. Hill, M. Shahidehpour. "The Role of Electric Grid Research in Addressing Climate Change," *Nature Climate Change*, 2024 (accepted, to appear).
 
