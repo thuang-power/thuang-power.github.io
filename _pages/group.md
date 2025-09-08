@@ -11,7 +11,12 @@ Ph.D. Students
 =====
 
 Imasha Balahewa (Fall 2023 - Present)
+Yuan Liu (Fall 2025 - Present)
 
 M.S. Students
 =====
-Beqa Abulashvili (Fall 2023 - Present)
+Beqa Abulashvili (Fall 2023 - Fall 2024; First Job: Consolidated Edison Company of New York, Inc.)
+
+Undergraduate Students
+=====
+Ayvan Davoren (Fall 2025 - Present)
