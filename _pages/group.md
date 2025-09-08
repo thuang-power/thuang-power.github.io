@@ -16,7 +16,7 @@ Yuan Liu (Fall 2025 - Present)
 
 M.S. Students
 =====
-Beqa Abulashvili (Fall 2023 - Fall 2024; First Job: Consolidated Edison Company of New York, Inc.)
+Beqa Abulashvili (Fall 2023 - Spring 2025; First Job: Consolidated Edison Company of New York, Inc.)
 
 Undergraduate Students
 =====
