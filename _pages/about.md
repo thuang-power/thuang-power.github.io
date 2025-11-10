@@ -19,7 +19,7 @@ Announcements
 <!---
 [Jul. 2024] My single-authored paper titled "Non-intrusive Enforcement of Decentralized Stability Protocol for IBRs in AC Microgrids" is under the third-round review in *IEEE Transcations on Smart Grid*. The preprint version is [here](https://arxiv.org/abs/2310.09450). 
 -->
-[Nov. 7] Congratulations, Imasha and Lars, for winning the **first** and **second** places in the 2025 SDSU Engineering Graduate Research Symposium!
+[Nov. 2025] Congratulations, Imasha and Lars, for winning the **first** and **second** places in the 2025 SDSU Engineering Graduate Research Symposium!
 
 [Jul. 2025] As a panel speaker, Dr. Huang was invited to give a talk at the IEEE PES General Meeting 2025.
 
