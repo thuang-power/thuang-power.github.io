@@ -19,6 +19,12 @@ Announcements
 <!---
 [Jul. 2024] My single-authored paper titled "Non-intrusive Enforcement of Decentralized Stability Protocol for IBRs in AC Microgrids" is under the third-round review in *IEEE Transcations on Smart Grid*. The preprint version is [here](https://arxiv.org/abs/2310.09450). 
 -->
+[Nov. 7] Congratulations, Imasha and Lars, for winning the **first** and **second** places in the 2025 SDSU Engineering Graduate Research Symposium!
+
+[Jul. 2025] As a panel speaker, Dr. Huang was invited to give a talk at the IEEE PES General Meeting 2025.
+
+[Mar. 2025] Our paper titled "Data-Driven Design of Stability Enforcement Interfaces in IBR-Dominated Microgrids" is accepted by the IEEE PES General Meeting 2025. Congratulations, Beqa!
+
 [Dec. 2024] Our group member, Beqa Abulashvili, successfully defended his M.S. thesis. Congratulations, Beqa!
 
 [Oct. 2024] Our paper titled "A Natural Watermarking Approach to Cyber Attack Detection for Power Electronics- Interfaced Renewables" is accepted by 2024 56th North American Power Symposium (NAPS). Congratulations, Imasha and Lars!
