@@ -19,6 +19,9 @@ Announcements
 <!---
 [Jul. 2024] My single-authored paper titled "Non-intrusive Enforcement of Decentralized Stability Protocol for IBRs in AC Microgrids" is under the third-round review in *IEEE Transcations on Smart Grid*. The preprint version is [here](https://arxiv.org/abs/2310.09450). 
 -->
+[Dec. 2024] Our group member, Beqa Abulashvili, successfully defended his M.S. thesis. Congratulations, Beqa!
+
+[Oct. 2024] Our paper titled "A Natural Watermarking Approach to Cyber Attack Detection for Power Electronics- Interfaced Renewables" is accepted by 2024 56th North American Power Symposium (NAPS). Congratulations, Imasha and Lars!
 
 [Jun. 2024] Our paper titled "The Role of Electric Grid Research in Addressing Climate Change" has been accepted in *Nature Climate Change*. The preprint is [here](https://arxiv.org/abs/2406.17976). 
 
