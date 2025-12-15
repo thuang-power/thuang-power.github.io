@@ -23,7 +23,7 @@ Announcements
 
 [Jul. 2025] As a panel speaker, Dr. Huang was invited to give a talk at the IEEE PES General Meeting 2025.
 
-[Mar. 2025] Our paper titled "Data-Driven Design of Stability Enforcement Interfaces in IBR-Dominated Microgrids" is accepted by the IEEE PES General Meeting 2025. Congratulations, Beqa!
+[Mar. 2025] Our paper titled "[Data-Driven Design of Stability Enforcement Interfaces in IBR-Dominated Microgrids](https://ieeexplore.ieee.org/document/11225395)" is accepted by the IEEE PES General Meeting 2025. Congratulations, Beqa!
 
 [Dec. 2024] Our group member, Beqa Abulashvili, successfully defended his M.S. thesis. Congratulations, Beqa!
 
