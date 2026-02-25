@@ -10,6 +10,8 @@ author_profile: true
 [UR1] **T. Huang**, "Non-intrusive Enforcement of Decentralized Stability Protocol for IBRs in AC Microgrids," submitted to *IEEE Transactions on Smart Grid*, (under the 3rd round of review).
 -->
 ## Journal Publications
+[J14] **T. Huang**, "A Non-intrusive Decentralized Approach to Stabilizing IBR-dominated AC Microgrids," *International Journal of Electrical Power and Energy Systems*, 2026 (Accepted, to appear).
+
 [J13] L. Xie, S., **T. Huang**, Q. Zhang, P. Chang, D. Hill, M. Shahidehpour. "The Role of Electric Grid Research in Addressing Climate Change," *Nature Climate Change*, 2024 (accepted, to appear).
 
 [J12] H. Ibrahim, J. Kim, J. Ramos-Ruiz, W. Ko, **T. Huang**, P. Enjeti, P. Kumar, L. Xie, “Detection of Cyber Attacks in Grid-tied PV Systems Using Dynamic Watermarking,” in *IEEE Transactions on Industry Applications*, 2023 (accepted, to appear).
@@ -38,6 +40,10 @@ Architecture for Future Electric Energy Systems," *Proceedings of the IEEE* (acc
 [J1] X. Zheng, N. Xu, L. Trinh, D. Wu, **T. Huang**, S. Sivaranjani, Y. Liu, and L. Xie,“A multi-scale time-series dataset with benchmark for machine learning in decarbonized energy grids,” in *Scientific Data*, Nature Publication Group, Jun. 2022.
 
 ## Conference Publications
+[C11] B. Abulashvili and **T. Huang**, "Data-Driven Design of Stability Enforcement Interfaces in IBR-Dominated Microgrids," *2025 IEEE Power & Energy Society General Meeting* (PESGM), Austin, TX, USA, 2025, pp. 1-5, doi: 10.1109/PESGM52009.2025.11225395.
+
+[C10] I. Balahewa, L. Bjorndal, C. Mi and **T. Huang**, "A Natural Watermarking Approach to Cyber Attack Detection for Power Electronics- Interfaced Renewables," *2024 56th North American Power Symposium (NAPS)*, El Paso, TX, USA, 2024, pp. 1-6, doi: 10.1109/NAPS61145.2024.10741694.
+
 [C9] A. Jena, **T. Huang**, S. Sivaranjani, D. Kalathil, and L. Xie, “Distributed Learning-based Stability Assessment for Large Scale Networks of Dissipative Systems,” *2021 60th Conference on Decision and Control (CDC 2021)*.
 
 [C8] J. Ramos-Ruiz, H. Ibrahim, J. Kim, **T. Huang**, P. Enjeti, L. Xie, and, P. Kumar, “Validation of a Robust Cyber Shield for a Grid Connected PV Inverter System via Digital Watermarking Principle,” *2021 IEEE 12th International Symposium on Power Electronics for Distributed Generation Systems (PEDG)*.
