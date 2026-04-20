@@ -19,7 +19,7 @@ Announcements
 <!---
 [Jul. 2024] My single-authored paper titled "Non-intrusive Enforcement of Decentralized Stability Protocol for IBRs in AC Microgrids" is under the third-round review in *IEEE Transcations on Smart Grid*. The preprint version is [here](https://arxiv.org/abs/2310.09450). 
 -->
-[Apr. 2026] Dr. Huang receives the <span style="color:red">**NSF CAREER award**</span>. Thanks, NSF!
+[Apr. 2026] Dr. Huang receives the <span style="color:red">**NSF CAREER Award**</span>. Thanks, NSF!
 
 [Apr. 2026] Our paper titled "Cyber Attack Detection in Renewable-Rich IBR-Dominated Microgrids: A Natural Watermarking Approach" is accepted by Electric Power Systems Research. Congratulations, Imasha and Lars!
 
