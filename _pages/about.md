@@ -19,6 +19,14 @@ Announcements
 <!---
 [Jul. 2024] My single-authored paper titled "Non-intrusive Enforcement of Decentralized Stability Protocol for IBRs in AC Microgrids" is under the third-round review in *IEEE Transcations on Smart Grid*. The preprint version is [here](https://arxiv.org/abs/2310.09450). 
 -->
+[Apr. 2026] Dr. Huang received the <span style="color:red">**NSF CAREER award**</span>. Thanks, NSF!
+
+[Apr. 2026] Our paper titled "Cyber Attack Detection in Renewable-Rich IBR-Dominated Microgrids: A Natural Watermarking Approach" is accepted by Electric Power Systems Research. Congratulations, Imasha and Lars!
+
+[Mar. 2026] Dr. Huang gave a presentation in the panel titled "Energy for AI" in the 2026 AI-Energy Summit in San Diego. He also chaired one plenary session and one panel titled "AI for Energy Conversion and Power Networks."
+
+[Mar. 2026] Dr. Huang was invited to give a talk titled "Boosting Cyber-Physical Resilience of IBR-rich Power Networks" at the University of Houston.
+
 [Nov. 2025] Congratulations, Imasha and Lars, for winning the **first** and **second** places in the 2025 SDSU Engineering Graduate Research Symposium!
 
 [Jul. 2025] As a panel speaker, Dr. Huang was invited to give a talk at the IEEE PES General Meeting 2025.
