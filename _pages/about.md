@@ -23,7 +23,7 @@ Announcements
 
 [Apr. 2026] Our paper titled "Cyber Attack Detection in Renewable-Rich IBR-Dominated Microgrids: A Natural Watermarking Approach" is accepted by Electric Power Systems Research. Congratulations, Imasha and Lars!
 
-[Mar. 2026] Dr. Huang gave a talk in the panel titled "Energy for AI" in the 2026 AI-Energy Summit in San Diego. He also chaired one plenary session and one panel titled "AI for Energy Conversion and Power Networks."
+[Mar. 2026] Dr. Huang gave a talk in the panel titled "Energy for AI" in the [2026 AI-Energy Summit](https://ai-energy.sdsu.edu) in San Diego. He also chaired one plenary session and one panel titled "AI for Energy Conversion and Power Networks."
 
 [Mar. 2026] Dr. Huang was invited to give a talk at the University of Houston. His presentatation title is "Boosting Cyber-Physical Resilience of IBR-rich Power Networks."
 
