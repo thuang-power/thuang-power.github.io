@@ -27,6 +27,8 @@ Announcements
 
 [Mar. 2026] Dr. Huang was invited to give a talk at the University of Houston. His presentatation title is "Boosting Cyber-Physical Resilience of IBR-rich Power Networks."
 
+[Feb. 2026] Dr. Huang's paper titled "A non-intrusive decentralized approach to stabilizing IBR-dominated AC microgrids" is accepted by the International Journal of Electrical Power and Energy Systems. The full paper is [here](https://www.sciencedirect.com/science/article/pii/S0142061526001547).
+
 [Nov. 2025] Congratulations, Imasha and Lars, for winning the **first** and **second** places in the 2025 SDSU Engineering Graduate Research Symposium!
 
 [Jul. 2025] As a panel speaker, Dr. Huang was invited to give a talk at the IEEE PES General Meeting 2025.
