@@ -8,6 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
+"[SDSU engineer secures NSF CAREER Award to future-proof U.S. power grid](https://www.sdsu.edu/news/2026/04/sdsu-engineer-secures-nsf-career-award-to-future-proof-us-power-grid)" *San Diego State University News*, May, 2026.
+
 "[SDSU Researchers Working to Protect Power Grids Against Natural Disasters and Cyberattacks](https://www.sdsu.edu/news/2023/10/sdsu-researchers-working-protect-power-grids-against-natural-disasters-cyberattacks?utm_source=go&utm_medium=redirect&utm_campaign=newscenter.sdsu.edu)" *San Diego State University News*, Oct., 2023.
 
 
