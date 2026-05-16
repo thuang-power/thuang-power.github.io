@@ -11,6 +11,11 @@ Ph.D. Students
 =====
 
 Imasha Balahewa (Fall 2023 - Present)
+<div style="margin-left: 2em;">
+    University Graduate Fellowship (2026-2027)
+    
+    The First Place in 2025 SDSU Engineering Graduate Research Symposium
+</div>
 
 Yuan Liu (Fall 2025 - Present)
 
@@ -20,7 +25,8 @@ Beqa Abulashvili (Fall 2023 - Spring 2025; First Job: Consolidated Edison Compan
 <div style="margin-left: 2em;">
 Thesis: <em>Data-Driven Design of Stability Enforcement Interfaces in IBR-Dominated Microgrids.</em> A conference paper with the same title is published in the 2024 IEEE PES General Meeting.
 </div>
-    
+
+
 Undergraduate Students
 =====
 Ayvan Davoren (Fall 2025 - Present)
