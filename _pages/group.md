@@ -5,7 +5,7 @@ permalink: /group/
 
 ---
 
-<span style="color:blue">My research group has <span style="color:#AA6C39">**one fully funded Ph.D. position**</span> in Fall 2026. If you are interested in joining my research group, please email your CV, and transcript to "thuang7 AT sdsu DOT edu"</span>
+<span style="color:blue">My research group has <span style="color:#AA6C39">**one fully funded Ph.D. position**</span> in Fall 2027. If you are interested in joining my research group, please email your CV, and transcript to "thuang7 AT sdsu DOT edu"</span>
 
 Ph.D. Students
 =====
@@ -21,3 +21,7 @@ Beqa Abulashvili (Fall 2023 - Spring 2025; First Job: Consolidated Edison Compan
 Undergraduate Students
 =====
 Ayvan Davoren (Fall 2025 - Present)
+
+Tyler Mazon (Summer 2026 - Present)
+
+Francis James Sara (Summer 2026 - Present)
