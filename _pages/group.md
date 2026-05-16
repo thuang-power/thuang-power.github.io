@@ -12,9 +12,10 @@ Ph.D. Students
 
 Imasha Balahewa (Fall 2023 - Present)
 <div style="margin-left: 2em;">
-University Graduate Fellowship (2026-2027)
-
-The First Place in 2025 SDSU Engineering Graduate Research Symposium
+<ul>
+<li>University Graduate Fellowship (2026-2027)</li>
+<li>First Place, 2025 SDSU Engineering Graduate Research Symposium</li>
+</ul>
 </div>
 
 Yuan Liu (Fall 2025 - Present)
