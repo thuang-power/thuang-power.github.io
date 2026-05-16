@@ -25,8 +25,8 @@ M.S. Students
 Beqa Abulashvili (Fall 2023 - Spring 2025; First Job: Consolidated Edison Company of New York, Inc.)
 <div style="margin-left: 2em;">
 <ul>  
-<li>Thesis: <em>Data-Driven Design of Stability Enforcement Interfaces in IBR-Dominated Microgrids.</em> 
-<li>A conference paper with the same title is published in the 2024 IEEE PES General Meeting.
+<li>Thesis: <em>Data-Driven Design of Stability Enforcement Interfaces in IBR-Dominated Microgrids.</em> </li>
+<li>A conference paper with the same title is published in the 2024 IEEE PES General Meeting.</li>
 </ul>
 </div>
 
