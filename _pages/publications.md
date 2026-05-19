@@ -10,7 +10,7 @@ author_profile: true
 [UR1] **T. Huang**, "Non-intrusive Enforcement of Decentralized Stability Protocol for IBRs in AC Microgrids," submitted to *IEEE Transactions on Smart Grid*, (under the 3rd round of review).
 -->
 ## Journal Publications
-[J15] I. Balahewa, L. Bjorndal, C. Mi, **T. Huang**, "Cyber attack detection in renewable-rich IBR-dominated microgrids: A natural watermarking approach," Electric Power Systems Research, Volume 260, 2026, 113148, ISSN 0378-7796, https://doi.org/10.1016/j.epsr.2026.113148.
+[J15] I. Balahewa, L. Bjorndal, C. Mi, **T. Huang**, "Cyber attack detection in renewable-rich IBR-dominated microgrids: A natural watermarking approach," *Electric Power Systems Research*, Volume 260, 2026, 113148, ISSN 0378-7796, https://doi.org/10.1016/j.epsr.2026.113148.
 
 [J14] **T. Huang**, "A Non-intrusive Decentralized Approach to Stabilizing IBR-dominated AC Microgrids," *International Journal of Electrical Power and Energy Systems*, 2026 (accepted, to appear).
 
