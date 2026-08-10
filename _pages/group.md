@@ -34,8 +34,8 @@ Beqa Abulashvili (Fall 2023 - Spring 2025; First Job: Consolidated Edison Compan
   
 Undergraduate Students
 =====
-Ayvan Davoren (Fall 2025 - Present)
+Ayvan Davoren (Fall 2025 - Present, SDSU CoE Dean's List)
 
-Tyler Mazon (Summer 2026 - Present)
+Tyler Mazon (Summer 2026 - Present, SDSU CoE Dean's List)
 
-Francis James Sara (Summer 2026 - Present)
+Francis James Sara (Summer 2026 - Present, SDSU CoE Dean's List)
