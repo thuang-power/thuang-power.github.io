@@ -5,7 +5,7 @@ permalink: /group/
 
 ---
 
-<span style="color:blue">My research group has <span style="color:#AA6C39">**one fully funded Ph.D. position**</span> in Fall 2027. If you are interested in joining my research group, please email your CV, and transcript to "thuang7 AT sdsu DOT edu"</span>
+<span style="color:blue">My research group has <span style="color:#AA6C39">**TWO fully funded Ph.D. positions**</span> in Fall 2027. If you are interested in joining my research group, please email your CV, and transcript to "thuang7 AT sdsu DOT edu"</span>
 
 Ph.D. Students
 =====
@@ -18,7 +18,7 @@ Imasha Balahewa (Fall 2023 - Present)
 </ul>
 </div>
 
-Yuan Liu (Fall 2025 - Present)
+Yuan Liu (2026 - Present)
 
 M.S. Students
 =====
